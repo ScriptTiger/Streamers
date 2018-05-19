@@ -2,8 +2,10 @@
 
 # Streamers
 Curated list of streaming service domains. Use cases for this list may include, but are not limited to:  
-Implementing QoS (quality of service) models for streaming services  
-Conditional DNS resolving (via a service such as DualServer) in cases where you are receiving DNS from remote sources that are not optimized for your local area (Google DNS, Tor DNS, OpenDNS, DNS over TLS, DNSCrypt, etc.)
+- Implementing QoS (quality of service) models for streaming services  
+- Conditional DNS resolving (via a service such as DualServer) in cases where you are receiving DNS from remote sources that are not optimized for your local area (Google DNS, Tor DNS, OpenDNS, DNS over TLS, DNSCrypt, etc.)
+
+**This project is still new, so if you like the idea and have your own suggestions or contributions, please feel free to open an issue or PR!**
 
 You can download this repo from the below link to get started:  
 https://github.com/ScriptTiger/Streamers/archive/master.zip
