@@ -1,0 +1,42 @@
+# =====
+# For more information on ScriptTiger and more ScriptTiger projects visit the following URL:
+# https://scripttiger.github.io/
+# Or visit the following URL for the latest information on this ScriptTiger project:
+# https://github.com/ScriptTiger/Streamers
+# =====
+
+# iFlix
+
+a1313.dscw10.akamai.net
+api.iflix.com
+auth.iflix.com
+cinema.iflix.com
+data.iflix.com
+e25102.b.akamaiedge.net
+feature-service.iflix.com
+i18n.iflix.com
+iflix.com
+iflix.demdex.net
+iflix.sc.omtrdc.net
+iflixassets.com
+iflix-data.akamaized.net
+iflix-images.akamaized.net
+iflix-videocdn-p1.akamaized.net
+images.iflixassets.com
+kinesis.ap-southeast-1.amazonaws.com
+licenseproxy.ha.iflix-second.vimondtv.com
+login.iflix.com
+personalization-service.iflix.com
+piay.iflix.com
+play.iflix.com
+rating-service.iflix.com
+static.iflix.com
+ticketbox.iflix.com
+wallet.iflix.com
+www.iflix.com
+
+# YouTube
+
+googlevideo.com
+youtube.com
+ytimg.com
