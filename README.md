@@ -3,7 +3,7 @@
 # Streamers
 Curated list of streaming service domains. Use cases for this list may include, but are not limited to:  
 - Implementing QoS (quality of service) models for streaming services.  
-- Conditional DNS resolving/conditional forwarders (via a service such as DualServer) in cases where you are receiving DNS from remote sources that are not optimized for your local area (Google DNS, Tor DNS, OpenDNS, DNS over TLS, DNSCrypt, etc.) and would like to conditionally resolve streaming services to a local DNS that is optimized for your local area in order to connect to the closest possible content delivery node and maximize performance for streams.
+- Conditional DNS resolving/conditional forwarders (via a service such as DualServer) in cases where you are receiving DNS from remote sources that are not optimized for your local area (Google DNS, Cloudflare DNS, Tor DNS, OpenDNS, DNS over TLS, DNSCrypt, etc.) and would like to conditionally resolve streaming services to a local DNS that is optimized for your local area in order to connect to the closest possible content delivery node and maximize performance for streams.
 
 Note to DualServer Users: To implement these entries into the "[CONDITIONAL_FORWARDERS]" section of the DualServer.ini you must appened "=IP.Of.Local.DNS" to the end of the line like so:  
 ```
