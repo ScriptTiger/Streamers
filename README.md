@@ -1,5 +1,7 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ScriptTiger)
-
+[![ScriptTiger/Streamers](https://scripttiger.github.io/images/Streamers-banner.png)](https://github.com/ScriptTiger/Streamers)
+[![Creative Commons Lisansi](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+The above "Streamers" logo was generously provided free of charge by [Arslan Şahinis](https://github.com/Arslanshn) under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
 # Streamers
 Curated list of streaming service domains. Use cases for this list may include, but are not limited to:  
 - Implementing QoS (quality of service) models for streaming services.  
