@@ -3,7 +3,7 @@
 [![Creative Commons Lisansi](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 The above "Streamers" logo was generously provided free of charge by [Arslan Şahinis](https://github.com/Arslanshn) under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
 # Streamers
-Curated list of streaming service domains. Use cases for this list may include, but are not limited to:  
+Curated list of streaming service domains. PRs welcome! Use cases for this list may include, but are not limited to:  
 - Implementing QoS (quality of service) models for streaming services.  
 - Conditional DNS resolving/conditional forwarders (via a service such as DualServer) in cases where you are receiving DNS from remote sources that are not optimized for your local area (Google DNS, Cloudflare DNS, Tor DNS, OpenDNS, DNS over TLS, DNSCrypt, etc.) and would like to conditionally resolve streaming services to a local DNS that is optimized for your local area in order to connect to the closest possible content delivery node and maximize performance for streams.
 
