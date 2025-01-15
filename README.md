@@ -19,5 +19,7 @@ Entries made in the "[CONDITIONAL_FORWARDERS]" section will override the default
 You can download this repo from the below link to get started:  
 https://github.com/ScriptTiger/Streamers/archive/master.zip
 
+# More About ScriptTiger
+
 For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
 https://scripttiger.github.io/
